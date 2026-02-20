@@ -25,6 +25,21 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+<script setup>
+ 
+const sobreMim = {
+  nome: "Marcos Antonio Dias Pereira",
+  area: "Desenvolvimento Web e SAP",
+  foco: "SAP S/4HANA e Front-End Development"
+};
+ 
+const skills = {
+  linguagens: ["JavaScript", "HTML5", "CSS3", "C"],
+  frameworks: ["React"],
+  bancoDeDados: ["SQL"],
+  conhecimentosSAP: ["FI", "CO", "S/4HANA", "SD"]
+};
+</script>
 
 <p align="left">I'm Marcos from Porto Alegre<br><br>- 🔭 I’m working as SAP Finance solutions and front-end development.<br>- 📚 I'm currently learning SAP<br>- ⚡ In my free time I Play I exercise and I like to run.</p>
 
