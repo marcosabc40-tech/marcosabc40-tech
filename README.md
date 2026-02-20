@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Marcos from Porto Alegre<br><br>- 🔭 I’m working as SAP Finance solutions and front-end development.<br>- 📚 I'm currently learning SAP<br>- ⚡ In my free time I Play I exercise and I like to run.</p>
 
 ###
 
